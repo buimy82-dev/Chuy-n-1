@@ -1,0 +1,9 @@
+.env
+*.log
+.backend.pid
+.frontend.pid
+.DS_Store
+bin/
+obj/
+node_modules/
+dist/
